@@ -1,0 +1,5 @@
+{
+  "name": "PendulumLab Pro",
+  "description": "A high-fidelity, interactive physics simulation of a simple pendulum with real-time data visualization and customizable parameters.",
+  "requestFramePermissions": []
+}
